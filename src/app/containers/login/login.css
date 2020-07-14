@@ -1,0 +1,82 @@
+@media only screen and (min-width: 768px) {
+  .login-card {
+    border: solid white thin;
+    border-radius: 5%;
+    width: 30rem;
+    padding: 2rem;
+    background-color: whitesmoke;
+  }
+}
+.login-card {
+  border: solid white thin;
+  border-radius: 2.5%;
+  padding: 2rem;
+  background-color: whitesmoke;
+}
+
+.chart-img {
+  width: 20rem;
+  height: 20rem;
+  margin-top: -10rem;
+}
+
+.icon {
+  width: 1.5rem;
+  height: 1.5rem;
+  margin-right: 0.25rem;
+}
+
+.close-btn {
+  background-color: transparent !important;
+  border: none !important;
+  box-shadow: none !important;
+}
+
+.close-btn:hover {
+  background-color: transparent;
+  border: none !important;
+  box-shadow: none !important;
+}
+.close-btn:active {
+  background-color: transparent;
+  border: none !important;
+  box-shadow: none !important;
+  opacity: 0.25;
+}
+.close-btn:focus {
+  background-color: transparent;
+  border: none !important;
+  box-shadow: none !important;
+}
+
+.err {
+  color: red;
+  margin-left: 2rem;
+  font-size: small;
+}
+
+.margin-top {
+  margin-top: 1rem;
+}
+
+.forgot-pass {
+  display: flex;
+  background-color: transparent !important;
+  border: none !important;
+}
+.forgot-pass:hover {
+  background-color: transparent;
+  border: none !important;
+  box-shadow: none !important;
+}
+.forgot-pass:active {
+  background-color: transparent;
+  border: none !important;
+  box-shadow: none !important;
+  opacity: 0.25;
+}
+.forgot-pass:focus {
+  background-color: transparent;
+  border: none !important;
+  box-shadow: none !important;
+}
